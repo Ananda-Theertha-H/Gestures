@@ -16,3 +16,13 @@ This project uses **OpenCV**, **MediaPipe**, and **PyAutoGUI** to control your P
 - [OpenCV](https://opencv.org/)
 - [MediaPipe](https://mediapipe.dev/)
 - [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/)
+
+## ✋ Gesture Controls
+
+| Hand Gesture                              | Action             |
+|-------------------------------------------|--------------------|
+| Thumb + Index close together              | Zoom Out           |
+| Thumb + Index far apart                   | Zoom In            |
+| Index + Middle fingers up                 | Scroll (Up / Down) |
+| Only Index finger up                      | Volume (Up / Down) |
+| Index + Middle + Ring up (no pinky/thumb) | Take Screenshot    |
